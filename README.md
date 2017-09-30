@@ -16,11 +16,11 @@ Lastly, implement a way for the players to challenge each other to a game.
 
 # Game ideas:
 
-Chess
-Speed Tetris
-Tic Tac Toe
-Battleship
-Casino War
+* Chess
+* Speed Tetris
+* Tic Tac Toe
+* Battleship
+* Casino War
 
 # Extras
 
